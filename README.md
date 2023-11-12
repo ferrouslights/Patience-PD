@@ -1,6 +1,8 @@
 # Patience-PD
 The public repo for the PlayDate game "Patience". For recording issues and requests.
 
+![Demo Image](Assets/demo.jpg)
+
 ## How to Install
 - You can download the game from [itch.io](https://ferrouslights.itch.io/patience-playdate)
 - Once downloaded, refer to this [article](https://help.play.date/games/sideloading/) on installation to your device. Or play via the sdk in the simulator.
